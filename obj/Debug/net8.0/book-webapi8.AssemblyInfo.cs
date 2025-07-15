@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("book-webapi8")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a51ca9e4fc6748b9720910feb87094eccdc630bd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e292e1c1633d8a080621c38918d9a960fc5aa6cd")]
 [assembly: System.Reflection.AssemblyProductAttribute("book-webapi8")]
 [assembly: System.Reflection.AssemblyTitleAttribute("book-webapi8")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
